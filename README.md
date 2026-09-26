@@ -19,6 +19,10 @@ Backend and DevOps engineer building event-driven platforms, secure delivery pip
 | **ReleasePilot** | DevOps control plane for approval gates, progressive delivery, automated rollback, and tamper-evident release evidence | [Repository](https://github.com/automaster5013/ReleasePilot) |
 | **VisionFlow-Drone** | Real-time drone telemetry and computer-vision pipeline spanning edge AI, backend services, and an operations dashboard | [Repository](https://github.com/automaster5013/VisionFlow-Drone) |
 
+## Learning in public
+
+- [Frontend HTML Practice](https://github.com/automaster5013/frontend) documents accessible, framework-free HTML and CSS foundations, with a [live GitHub Pages demo](https://automaster5013.github.io/frontend/).
+
 ## Technical focus
 
 `Java` · `Spring Boot` · `Python` · `TypeScript` · `Next.js` · `PostgreSQL` · `Redis` · `Kafka` · `Docker` · `Kubernetes` · `Terraform` · `AWS` · `OpenTelemetry`
