@@ -30,4 +30,9 @@ Backend and DevOps engineer building event-driven platforms, secure delivery pip
 - Prefer verified behavior and executable runbooks over undocumented assumptions.
 - Build demos that can be explored, not just source code that can be read.
 
+## Let's collaborate
+
+- Pick a scoped [`good first issue`](https://github.com/automaster5013/LogiTrack/labels/good%20first%20issue) in LogiTrack.
+- Join the [LogiTrack Discussions](https://github.com/automaster5013/LogiTrack/discussions) for setup questions, architecture ideas, and demonstrations.
+- Follow the [contribution guide](https://github.com/automaster5013/LogiTrack/blob/main/CONTRIBUTING.md) before opening a pull request.
 Thanks for visiting. Start with [LogiTrack](https://github.com/automaster5013/LogiTrack) for the most recent end-to-end system.
