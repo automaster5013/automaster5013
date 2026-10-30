@@ -15,6 +15,7 @@ Backend and DevOps engineer building event-driven platforms, secure delivery pip
 
 | Project | What it demonstrates | Explore |
 | --- | --- | --- |
+| **AgentTrust** | AI agent evaluation and release-review platform linking versioned evidence, role-separated reviews, and signed audit records | [Repository](https://github.com/automaster5013/AgentTrust) |
 | **LogiTrack** | Event-driven logistics control tower with fleet tracking, warehouse workflows, ETA analytics, and audited recovery | [Repository](https://github.com/automaster5013/LogiTrack) · [Live demo](https://www.logitrack.kr) |
 | **ReleasePilot** | DevOps control plane for approval gates, progressive delivery, automated rollback, and tamper-evident release evidence | [Repository](https://github.com/automaster5013/ReleasePilot) |
 | **VisionFlow-Drone** | Real-time drone telemetry and computer-vision pipeline spanning edge AI, backend services, and an operations dashboard | [Repository](https://github.com/automaster5013/VisionFlow-Drone) |
